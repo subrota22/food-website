@@ -41,8 +41,8 @@ html{font-size: 62.5%;}
 @media all and (max-width:500px) {
     html{font-size: 17.5%;}
     .btn{font-size: small; }
-    .footerDiv > ul > li {font-size: xx-small; }
-    .footerDiv{height: 32rem;}
+    .footerDiv > ul > li {font-size: large; }
+    .footerDiv{height: auto;}
 }
 
 @media all and (max-width:300px) {
